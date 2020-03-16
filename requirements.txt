@@ -17,6 +17,6 @@ pycurl==7.43.0.3
 pytz==2019.3
 query-string==2019.4.13
 request==2019.4.13
-requests==2.18.4
+requests==2.20.0
 urllib3==1.22
 Werkzeug==0.16.0
