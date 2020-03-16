@@ -1,0 +1,19 @@
+config_database = {
+  'user': '',
+  'password': '',
+  'host': '',
+  'database': ''
+  
+}
+
+
+config_api = {
+ 
+  
+}
+
+config_task_flow{
+
+
+
+}

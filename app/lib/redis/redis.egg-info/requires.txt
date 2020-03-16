@@ -1,0 +1,3 @@
+
+[hiredis]
+hiredis>=0.1.3

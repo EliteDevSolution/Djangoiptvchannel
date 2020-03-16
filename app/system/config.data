@@ -1,0 +1,18 @@
+{
+    'mysql': {'host': 'localhost', 'user': 'root',
+              'password': '', 'database': '2018_iptv'},
+    '_CFG': {
+	'debug':False,
+	'debug_post':True,
+	'XOR':"yes",
+	'XOR_KEY':"KvRmwk5&SuZz",
+	'enable_group':'Yes',
+	'group_id':1,
+	'UseIntroSeries':'YesNo',
+	'group_id':1,
+	'UseIntroSeries':"YesNo",
+	'update_password':"Yes",
+	'user_stream_source':'Yes/No',
+	'vod':"Yes/No",
+	'portalName':"PortalName"}
+}
