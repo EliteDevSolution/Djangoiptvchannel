@@ -3,7 +3,7 @@ chardet==3.0.4
 Click==7.0
 Django==2.0.4
 djangorestframework==3.10.3
-Flask==0.10.1
+Flask==1.0
 get==2019.4.13
 idna==2.6
 itsdangerous==1.1.0
